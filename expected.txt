@@ -1,0 +1,4 @@
+make a funciton that returns true if the word is  a palindrome and false if not
+if the word is the same as the word in reverse return true
+eg anna === anna // true
+eg jos ===soj // false
